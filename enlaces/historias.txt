@@ -1,1 +1,6 @@
+Cómo hacer historias de usuario
 https://www.youtube.com/watch?v=ky6wFiF5vMk
+Historias de usuario en 5 pasos
+http://www.pmoinformatica.com/2014/05/historias-de-usuario-en-5-pasos.html
+5 errores comúnes
+http://www.pmoinformatica.com/2013/05/que-son-las-historias-de-usuario-5.html
